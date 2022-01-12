@@ -1,6 +1,27 @@
 /* Fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto&family=The+Nautigal&display=swap');
 
+
+.navigation{
+    background-color: #562EFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+
+}
+.navigation a{
+    text-decoration: none;
+    margin-left: 36px;
+    color: white;
+   
+}
+.for-icon{
+    display:flex;
+    align-items: center;
+}
+
+
 /* Common Style or Utilities*/
 body{
     font-family: 'Poppins', sans-serif;
